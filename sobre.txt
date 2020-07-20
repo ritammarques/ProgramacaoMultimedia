@@ -1,0 +1,25 @@
+o objetivo do jogo 
+e voltar a meter 
+as pecas no por ordem
+
+clique a em iniciar para ver 
+a imagem original
+
+depois em nivel 1 para 
+comecar o seu jogo
+
+cada vez que clicar em 
+iniciar reiniciara o seu jogo
+
+tem a possibiliade de ligar ou 
+desligar o contador para ver
+a sua pontuacao
+
+se desligar o contador as pontuacoes
+apareceram a zeros
+
+se nao conseguir fazer a 
+imagem no numero de jogadas pedidas
+perdera o jogo e este voltara 
+ao nivel anterior
+

@@ -1,0 +1,7 @@
+6
+4
+emma.jpg
+// n - valor multiplicado pelo nível = numero de vezes a baralhar
+3
+// fator = 2 x n x nível = movimentos maximos
+2
